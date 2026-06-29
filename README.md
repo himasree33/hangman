@@ -3,7 +3,6 @@
 Welcome to the classic **Hangman Game** built with Python!  
 Guess the word one letter at a time, but be careful — each wrong guess costs you a life!
 
-🔗 [View Repository](https://github.com/syeduza1r/hungman)
 
 ---
 
@@ -37,8 +36,8 @@ Game ends when:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/uzueer/hungman.git
-cd hungman
+git clone https://github.com/himasree33/hangman.git
+cd hangman
 
 
 
