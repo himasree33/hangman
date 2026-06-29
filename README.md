@@ -38,6 +38,7 @@ Game ends when:
 ```bash
 git clone https://github.com/himasree33/hangman.git
 cd hangman
+python hangman.py
 
 
 
